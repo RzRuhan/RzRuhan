@@ -94,3 +94,11 @@ Feel free to reach out to me via email at [your.email@example.com]. You can also
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### ⌨️ Keep Typing!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26uflHA4pV32O4kSY/giphy.gif" alt="Typewriting Gif" width="300"/>
+</p>
