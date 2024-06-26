@@ -102,3 +102,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <img src="https://media.giphy.com/media/26uflHA4pV32O4kSY/giphy.gif" alt="Typewriting Gif" width="300"/>
 </p>
+
+```javascript
+import { Typewriter } from 'react-simple-typewriter';
+
+<Typewriter
+  words={['Frontend Developer', 'React.js Enthusiast', 'UI/UX Designer']}
+  loop={5}
+  cursor
+  cursorStyle='_'
+  typeSpeed={70}
+  deleteSpeed={50}
+  delaySpeed={1000}
+/>
+```
