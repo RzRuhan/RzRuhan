@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://media.giphy.com/media/26uflHA4pV32O4kSY/giphy.gif" alt="Typewriting Gif" width="300"/>
 </p>
 
-```javascript
+
 import { Typewriter } from 'react-simple-typewriter';
 
 <Typewriter
@@ -115,4 +115,3 @@ import { Typewriter } from 'react-simple-typewriter';
   deleteSpeed={50}
   delaySpeed={1000}
 />
-```
