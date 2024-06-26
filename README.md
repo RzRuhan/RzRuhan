@@ -41,20 +41,6 @@ Welcome to my portfolio! I'm **Ruhan**, a passionate frontend web developer spec
 
 ---
 
-## 🧑‍💼 Work Experience
-
-### Company Name (Dates of Employment)
-- **Position**: Frontend Web Developer
-- **Responsibilities**: Describe your responsibilities and achievements.
-- **Technologies Used**: List the technologies and tools you worked with.
-
-### Company Name (Dates of Employment)
-- **Position**: Frontend Intern
-- **Responsibilities**: Describe your responsibilities and achievements during the internship.
-- **Technologies Used**: List the technologies and tools you worked with.
-
----
-
 ## 🎓 Education
 
 - **Degree**: Bachelor of Science in Computer Science
@@ -76,42 +62,11 @@ Welcome to my portfolio! I'm **Ruhan**, a passionate frontend web developer spec
 
 ---
 
-## 🎨 Fun Facts
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPa2TdahY8gFRs4/giphy.gif" alt="Coding Gif" width="300"/>
-  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" alt="Design Gif" width="300"/>
-</p>
-
----
-
 ## 📫 Contact
 
 Feel free to reach out to me via email at [your.email@example.com]. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin) for professional inquiries and collaborations.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### ⌨️ Keep Typing!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26uflHA4pV32O4kSY/giphy.gif" alt="Typewriting Gif" width="300"/>
-</p>
 
 
-import { Typewriter } from 'react-simple-typewriter';
-
-<Typewriter
-  words={['Frontend Developer', 'React.js Enthusiast', 'UI/UX Designer']}
-  loop={5}
-  cursor
-  cursorStyle='_'
-  typeSpeed={70}
-  deleteSpeed={50}
-  delaySpeed={1000}
-/>
