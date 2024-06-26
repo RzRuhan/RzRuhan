@@ -56,7 +56,6 @@ Welcome to my portfolio! I'm **Ruhan**, a passionate frontend web developer spec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RzRuhan&theme=radical" alt="Ruhan's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzRuhan&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RzRuhan&theme=radical" alt="Profile Summary" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=RzRuhan&theme=radical" alt="GitHub Activity Graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=RzRuhan&theme=radical" alt="GitHub Trophy" />
 </p>
 
